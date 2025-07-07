@@ -9,4 +9,5 @@ Right now, I'm really into CTFs.
 Though, to be fair, my current skill level? Total skid :<
 
 Here's my blog — hope you enjoy it :>
+---
 [Blog](https://blog.c0ffeeoverdose.xyz/)
