@@ -10,8 +10,10 @@ Still, I hope my future self will patch everything up someday.
  
 ### 🌐 My Space
 Here are my websites — hope you enjoy them :>
-* [main website](https://c0ffeeoverdose.com/) | [blog](https://blog.c0ffeeoverdose.com)
+
+[main website](https://c0ffeeoverdose.com/) | [blog](https://blog.c0ffeeoverdose.com)
 
 ### 💻 Tech Stats
 My recent coding time tracked in real-time:
-* [![wakatime](https://wakatime.com/badge/user/0976ac97-3bb6-4094-91bf-dcca8b92ac27.svg)](https://wakatime.com/@0976ac97-3bb6-4094-91bf-dcca8b92ac27)
+
+[![wakatime](https://wakatime.com/badge/user/0976ac97-3bb6-4094-91bf-dcca8b92ac27.svg)](https://wakatime.com/@0976ac97-3bb6-4094-91bf-dcca8b92ac27)
