@@ -8,6 +8,10 @@ Still, I hope my future self will patch everything up someday.
 > **Yo, I'm from the future:**  
 > I think it's going to be hard to fix. You know what? Since AI is replacing junior devs and pentesters, how are you even going to get a job?
  
-Here's my websites — hope you enjoy it :>
----
-[main](https://c0ffeeoverdose.com/) | [blog](https://blog.c0ffeeoverdose.com)
+### 🌐 My Space
+Here are my websites — hope you enjoy them :>
+* [main website](https://c0ffeeoverdose.com/) | [blog](https://blog.c0ffeeoverdose.com)
+
+### 💻 Tech Stats
+My recent coding time tracked in real-time:
+* [![wakatime](https://wakatime.com/badge/user/0976ac97-3bb6-4094-91bf-dcca8b92ac27.svg)](https://wakatime.com/@0976ac97-3bb6-4094-91bf-dcca8b92ac27)
